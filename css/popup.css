@@ -1,0 +1,107 @@
+.site {
+    position: fixed;
+    display: flex;
+    width: 100%;
+    height: 100%;    
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, .9);
+    z-index: 1;
+}
+
+.modal {
+    position: fixed;    
+    width: 100vw;
+    height: 100vh;
+    display: flex;    
+    align-items: center;
+    justify-content: center;            
+    z-index: 2;
+}
+
+.popup {
+    position: absolute;    
+    width: 720px;
+    height: 720px;
+    display: flex;    
+    align-items: center;
+    justify-content: center;        
+    background-color: #000;
+    z-index: 3;
+}
+
+.invisivel {
+    display: none !important;
+}
+
+.visivel {
+    display: flex;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+.visivelPopup {
+    display: flex;
+    background-color: #131313;
+}
+
+.logo-popup {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+.btn-fechar {
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    cursor: pointer;
+    transition: all .25s ease-in;
+    opacity: .5;
+}
+
+.btn-fechar:hover {
+    opacity: 1;
+}
+
+.btn-footer-assinar {
+    position: absolute;
+    top: 635px;
+    background-color: #0E9384;
+    padding: .75rem 1rem !important;
+    color: #fff;
+    width: 95%;
+    padding: .15rem 0;
+    font-family: 'Circular Std Medium', sans-serif;
+    font-size: 20px;
+    margin: 15px;
+    text-align: center;
+    transition: all .25s ease-in;
+}
+
+.btn-footer-assinar:hover {   
+    background-color: #125d56;
+    color: #fff;    
+}
+
+.desc-popup {
+    position: absolute;
+    top: 120px;
+    left: 25px;
+    font-family: 'Circular Std Medium', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 72px;
+    color: #fff;
+}
+
+.hist-popup {
+    position: absolute;
+    padding: 0 25px 0 0;
+    top: 430px;
+    left: 25px;
+    font-family: 'Circular Std Medium', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 42px;
+    color: #fff;
+}

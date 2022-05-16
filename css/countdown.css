@@ -1,0 +1,39 @@
+#clockdiv {
+    position: absolute;
+    top: 305px;
+    left: 10px;
+    font-family: 'Circular Std Medium', sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 40px;
+    color: #15B79E;    
+}
+
+.pontos {
+    position: relative;    
+    margin-left: 15px;
+    margin-right: -25px;
+    color: #fff !important;    
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 14px;
+    vertical-align: middle;
+}
+
+#clockdiv > div{
+	padding: 10px;
+	border-radius: 3px;	
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	padding: 2px;
+	border-radius: 3px;	
+	display: inline-block;
+}
+
+.smalltext {
+    font-family: 'Circular Std Book', sans-serif;
+    color: #fff;
+    font-size: 18px;	
+}

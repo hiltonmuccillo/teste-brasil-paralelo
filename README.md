@@ -8,15 +8,15 @@ git clone git@github.com:hiltonmuccillo/teste-brasil-paralelo.git
 Após clonar o repositório, abra o arquivo <strong>index.html</strong> no navegador.<br><br>
 <strong>Foi usado neste projeto HTML5, CSS3, Bootstrap e Javascript Puro.</strong><br>
 
-## Brasil Paralelo / Desktop Responsivo
+## Brasil Paralelo - Desktop Responsivo
 
 ![Teste - Brasil Paralelo](images/screen-desktop.jpg?raw=true "Teste - Brasil Paralelo")
 
-## Brasil Paralelo / Desktop Countdown Clock / API JSONBIN
+## Brasil Paralelo - Desktop / Countdown Clock / API JSONBIN
 
 ![Teste - Brasil Paralelo](images/screen-desktop2.jpg?raw=true "Teste - Brasil Paralelo")
 
-## Brasil Paralelo / Mobile
+## Brasil Paralelo - Mobile
 
 ![Teste - Brasil Paralelo](images/screen-mobile.jpg?raw=true "Teste - Brasil Paralelo")
 

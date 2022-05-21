@@ -12,6 +12,8 @@ Após clonar o repositório, abra o arquivo <strong>index.html</strong> no naveg
 
 ![Teste - Brasil Paralelo](images/screen-desktop.jpg?raw=true "Teste - Brasil Paralelo")
 
+## Brasil Paralelo / Desktop Countdown Clock
+
 ![Teste - Brasil Paralelo](images/screen-desktop2.jpg?raw=true "Teste - Brasil Paralelo")
 
 ## Brasil Paralelo / Mobile
